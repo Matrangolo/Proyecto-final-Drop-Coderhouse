@@ -19,3 +19,17 @@ color: rgb(0, 0, 0);
 margin-top: 10px;
 }
 
+.row{
+    padding: 10px;
+    margin: 10px;
+    }
+
+.lobby{
+padding-left: 2em;
+padding-right: 1.5em;
+}
+
+.galeria{
+padding-top: 10em;
+}
+
